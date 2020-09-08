@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## [![Tim Martins's header](https://github.com/TimJMartin/TimJMartin/blob/master/GH_ReadMe_Profile.png)](https://timjmartin.gitbook.io/gis-playbook/)
+
 <!--
 **TimJMartin/TimJMartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
